@@ -1,0 +1,10 @@
+C:\C# 2015\Water Tracking\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\C# 2015\Water Tracking\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\C# 2015\Water Tracking\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\C# 2015\Water Tracking\WindowsFormsApp1\obj\Debug\Water Tracking.csprojAssemblyReference.cache
+C:\C# 2015\Water Tracking\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WaterTracking.resources
+C:\C# 2015\Water Tracking\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\C# 2015\Water Tracking\WindowsFormsApp1\obj\Debug\Water Tracking.csproj.GenerateResource.cache
+C:\C# 2015\Water Tracking\WindowsFormsApp1\obj\Debug\Water Tracking.csproj.CoreCompileInputs.cache
+C:\C# 2015\Water Tracking\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\C# 2015\Water Tracking\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
